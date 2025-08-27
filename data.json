@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Raghav",
+        "Class": "12",
+        "Roll no.": 1,
+        "Marks of Physics": 56,
+        "Marks of Chemistry": 65,
+        "Marks of Maths": 56
+    },
+    {
+        "Name": "shivam",
+        "Class": "10",
+        "Roll no.": 2,
+        "Marks of Physics": 46,
+        "Marks of Chemistry": 76,
+        "Marks of Maths": 56
+    },
+    {
+        "Name": "Raj",
+        "Class": "11",
+        "Roll no.": 3,
+        "Marks of Physics": 56,
+        "Marks of Chemistry": 76,
+        "Marks of Maths": 67,
+        "Average": 66.33333333333333
+    }
+]
